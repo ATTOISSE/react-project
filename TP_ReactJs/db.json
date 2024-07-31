@@ -1,0 +1,18 @@
+{
+    "users" : [
+        
+            {
+                "id": 1,
+                "nom": "SYLLA",
+                "prenom": "Mame Diarra",
+                "age": 20
+              },
+              {
+                "id": 2,
+                "nom": "DIALLO",
+                "prenom": "SAIKOU OUMAR",
+                "age": 22
+              }
+        
+    ]
+}
